@@ -1,3 +1,3 @@
-[](http://ibmathsresources.com/2014/08/14/fourier-transforms-the-most-important-tool-in-mathematics/)
+[Fourier Transforms – the most important tool in mathematics?](http://ibmathsresources.com/2014/08/14/fourier-transforms-the-most-important-tool-in-mathematics/)
 
-[](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+[An Interactive Guide To The Fourier Transform](http://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
